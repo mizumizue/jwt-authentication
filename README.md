@@ -47,5 +47,5 @@ curl -XGET http://localhost:8080 -H "Authorization:Bearer {jwt-token}"
 
 ## Referenced below pages or books, thank you
 
-[Go言語で理解するJWT認証 実装ハンズオン](https://qiita.com/po3rin/items/740445d21487dfcb5d9f)
-[jwt.io](https://jwt.io)
+- [Go言語で理解するJWT認証 実装ハンズオン](https://qiita.com/po3rin/items/740445d21487dfcb5d9f)
+- [jwt.io](https://jwt.io)
